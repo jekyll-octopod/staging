@@ -4,7 +4,7 @@
  <title>Octopod - Staging Site</title>
  <link href="https://jekyll-octopod.github.io/staging/general_feed.xml" rel="self"/>
  <link href="https://jekyll-octopod.github.io/staging"/>
- <updated>2016-06-06T15:14:09+02:00</updated>
+ <updated>2016-06-06T15:16:07+02:00</updated>
  <id>https://jekyll-octopod.github.io/staging/</id>
  <author>
    <name>Stefan Haslinger</name>
@@ -19,7 +19,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/04/10/episode100</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode100/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode100/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/100.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -49,7 +49,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/04/09/episode99</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode99/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode99/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/99.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -79,7 +79,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/04/08/episode98</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode98/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode98/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/98.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -109,7 +109,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/04/07/episode97</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode97/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode97/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/97.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -139,7 +139,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/04/06/episode96</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode96/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode96/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/96.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -169,7 +169,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/04/05/episode95</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode95/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode95/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/95.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -199,7 +199,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/04/04/episode94</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode94/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode94/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/94.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -229,7 +229,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/04/03/episode93</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode93/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode93/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/93.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -259,7 +259,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/04/02/episode92</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode92/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode92/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/92.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -289,7 +289,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/04/01/episode91</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode91/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode91/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/91.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -319,7 +319,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/31/episode90</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode90/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode90/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/90.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -349,7 +349,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/30/episode89</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode89/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode89/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/89.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -379,7 +379,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/29/episode88</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode88/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode88/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/88.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -409,7 +409,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/28/episode87</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode87/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode87/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/87.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -439,7 +439,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/27/episode86</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode86/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode86/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/86.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -469,7 +469,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/26/episode85</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode85/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode85/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/85.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -499,7 +499,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/25/episode84</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode84/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode84/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/84.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -529,7 +529,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/24/episode83</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode83/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode83/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/83.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -559,7 +559,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/23/episode82</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode82/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode82/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/82.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -589,7 +589,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/21/episode80</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode80/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode80/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/80.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -619,7 +619,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/20/episode79</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode79/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode79/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/79.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -649,7 +649,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/19/episode78</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode78/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode78/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/78.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -679,7 +679,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/18/episode77</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode77/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode77/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/77.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -709,7 +709,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/17/episode76</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode76/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode76/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/76.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -739,7 +739,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/16/episode75</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode75/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode75/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/75.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -769,7 +769,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/15/episode74</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode74/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode74/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/74.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -799,7 +799,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/14/episode73</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode73/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode73/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/73.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -829,7 +829,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/13/episode72</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode72/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode72/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/72.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -859,7 +859,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/12/episode71</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode71/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode71/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/71.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -889,7 +889,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/11/episode70</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode70/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode70/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/70.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -919,7 +919,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/10/episode69</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode69/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode69/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/69.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -949,7 +949,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/09/episode68</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode68/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode68/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/68.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -979,7 +979,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/08/episode67</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode67/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode67/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/67.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1009,7 +1009,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/07/episode66</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode66/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode66/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/66.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1039,7 +1039,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/06/episode65</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode65/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode65/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/65.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1069,7 +1069,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/05/episode64</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode64/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode64/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/64.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1099,7 +1099,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/04/episode63</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode63/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode63/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/63.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1129,7 +1129,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/03/episode62</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode62/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode62/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/62.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1159,7 +1159,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/02/episode61</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode61/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode61/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/61.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1189,7 +1189,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/03/01/episode60</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode60/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode60/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/60.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1219,7 +1219,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/29/episode59</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode59/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode59/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/59.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1249,7 +1249,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/28/episode58</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode58/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode58/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/58.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1279,7 +1279,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/27/episode57</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode57/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode57/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/57.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1309,7 +1309,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/26/episode56</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode56/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode56/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/56.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1339,7 +1339,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/25/episode55</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode55/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode55/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/55.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1369,7 +1369,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/24/episode54</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode54/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode54/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/54.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1399,7 +1399,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/23/episode53</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode53/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode53/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/53.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1429,7 +1429,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/22/episode52</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode52/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode52/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/52.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1459,7 +1459,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/21/episode51</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode51/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode51/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/51.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1489,7 +1489,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/20/episode50</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode50/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode50/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/50.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1519,7 +1519,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/19/episode49</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode49/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode49/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/49.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1549,7 +1549,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/18/episode48</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode48/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode48/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/48.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1579,7 +1579,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/17/episode47</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode47/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode47/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/47.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1609,7 +1609,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/16/episode46</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode46/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode46/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/46.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1639,7 +1639,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/15/episode45</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode45/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode45/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/45.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1669,7 +1669,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/14/episode44</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode44/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode44/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/44.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1699,7 +1699,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/13/episode43</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode43/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode43/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/43.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1729,7 +1729,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/12/episode42</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode42/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode42/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/42.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1759,7 +1759,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/11/episode41</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode41/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode41/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/41.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1789,7 +1789,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/10/episode40</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode40/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode40/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/40.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1819,7 +1819,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/09/episode39</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode39/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode39/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/39.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1849,7 +1849,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/08/episode38</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode38/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode38/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/38.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1879,7 +1879,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/07/episode37</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode37/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode37/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/37.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1909,7 +1909,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/06/episode36</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode36/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode36/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/36.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1939,7 +1939,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/05/episode35</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode35/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode35/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/35.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1969,7 +1969,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/04/episode34</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode34/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode34/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/34.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -1999,7 +1999,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/03/episode33</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode33/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode33/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/33.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2029,7 +2029,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/02/episode32</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode32/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode32/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/32.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2059,7 +2059,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/02/01/episode31</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode31/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode31/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/31.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2089,7 +2089,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/31/episode30</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode30/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode30/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/30.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2119,7 +2119,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/30/episode29</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode29/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode29/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/29.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2149,7 +2149,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/29/episode28</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode28/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode28/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/28.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2179,7 +2179,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/28/episode27</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode27/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode27/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/27.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2209,7 +2209,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/27/episode26</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode26/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode26/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/26.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2239,7 +2239,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/26/episode25</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode25/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode25/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/25.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2269,7 +2269,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/25/episode24</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode24/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode24/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/24.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2299,7 +2299,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/24/episode23</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode23/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode23/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/23.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2329,7 +2329,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/23/episode22</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode22/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode22/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/22.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2359,7 +2359,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/22/episode21</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode21/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode21/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/21.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2389,7 +2389,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/21/episode20</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode20/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode20/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/20.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2419,7 +2419,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/20/episode19</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode19/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode19/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/19.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2449,7 +2449,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/19/episode18</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode18/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode18/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/18.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2479,7 +2479,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/18/episode17</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode17/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode17/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/17.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2509,7 +2509,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/17/episode16</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode16/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode16/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/16.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2539,7 +2539,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/16/episode15</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode15/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode15/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/15.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2569,7 +2569,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/15/episode14</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode14/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode14/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/14.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2599,7 +2599,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/14/episode13</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode13/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode13/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/13.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2629,7 +2629,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/13/episode12</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode12/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode12/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/12.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2659,7 +2659,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/12/episode11</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode11/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode11/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/11.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2689,7 +2689,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/11/episode10</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode10/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode10/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/10.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2719,7 +2719,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/10/episode9</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode9/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode9/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/9.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2749,7 +2749,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/09/episode8</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode8/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode8/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/8.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2779,7 +2779,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/08/episode7</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode7/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode7/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/7.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2809,7 +2809,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/07/episode6</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode6/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode6/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/6.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2839,7 +2839,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/06/episode5</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode5/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode5/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/5.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2869,7 +2869,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/05/episode4</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode4/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode4/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/4.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2899,7 +2899,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/04/episode3</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode3/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode3/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/3.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2929,7 +2929,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/03/episode2</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode2/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode2/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/2.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2959,7 +2959,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/02/episode1</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode1/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode1/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/1.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
@@ -2989,7 +2989,7 @@
    <id>https://jekyll-octopod.github.io/staging/2016/01/01/episode0</id>
    <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
 
-&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;/players/episode0/index.html&quot;&gt;
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode0/index.html&quot;&gt;
     &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/0.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
   &lt;/audio&gt;
 &lt;/div&gt;
