@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Octopod</title>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/episodes7.ogg.rss" rel="self" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
+    <atom:link href="http://localhost:4000/episodes.ogg.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="http://localhost:4000/episodes10.ogg.rss" rel="last" type="application/rss+xml" />
+    <atom:link href="http://localhost:4000/episodes8.ogg.rss" rel="next" type="application/rss+xml" />
+    <atom:link href="http://localhost:4000/episodes6.ogg.rss" rel="prev" type="application/rss+xml" />
+
+    <atom:link rel="alternate" href="http://localhost:4000/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+<atom:link rel="alternate" href="http://localhost:4000/episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <description>My super duper cool podcast.
+</description>
+    <lastBuildDate>Mon, 06 Jun 2016 14:16:41 +0200</lastBuildDate>
+    <language>en</language>
+
+    <itunes:summary>My super duper cool podcast.
+</itunes:summary>
+    <itunes:author>Uncle Octopod</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://localhost:4000/img/logo-itunes.jpg" />
+    <itunes:owner>
+      <itunes:name>Uncle Octopod</itunes:name>
+      <itunes:email>octopod@example.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>octopod@example.com (Uncle Octopod)</managingEditor>
+    <copyright>CC BY 4.0</copyright>
+    <itunes:subtitle>Static Site Podcast Publishing for Geeks</itunes:subtitle>
+    <itunes:keywords>octopod, podcast, magic</itunes:keywords>
+    <image>
+      <title>Octopod</title>
+      <url>http://localhost:4000/img/logo-itunes.jpg</url>
+      <link>http://localhost:4000</link>
+    </image>
+    
+    <itunes:category text="Technology">
+    
+    </itunes:category>
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+          <item>
+            <title>Episode 40 - Getting Started Is Never Easy</title>
+            <link>http://localhost:4000/2016/02/10/episode40.html</link>
+            <comments>http://localhost:4000/2016/02/10/episode40.html#disqus_thread</comments>
+            <pubDate>Wed, 10 Feb 2016 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">http://localhost:4000/2016/02/10/episode40.html</guid>
+            <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="http://localhost:4000/episodes/40.ogg" length="24939" type="audio/ogg; codecs=vorbis" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Arne and Stefan</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:13</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+              <psc:chapter start="00:00:00.500" title="... Shoubidoubidoo ..." />
+              
+              <psc:chapter start="00:00:01.000" title="Outro." />
+              
+            </psc:chapters>
+            
+          </item>
+        
+      
+    
+      
+        
+        
+          <item>
+            <title>Episode 39 - Getting Started Is Never Easy</title>
+            <link>http://localhost:4000/2016/02/09/episode39.html</link>
+            <comments>http://localhost:4000/2016/02/09/episode39.html#disqus_thread</comments>
+            <pubDate>Tue, 09 Feb 2016 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">http://localhost:4000/2016/02/09/episode39.html</guid>
+            <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="http://localhost:4000/episodes/39.ogg" length="22396" type="audio/ogg; codecs=vorbis" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Arne and Stefan</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:13</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+              <psc:chapter start="00:00:00.500" title="... Shoubidoubidoo ..." />
+              
+              <psc:chapter start="00:00:01.000" title="Outro." />
+              
+            </psc:chapters>
+            
+          </item>
+        
+      
+    
+      
+        
+        
+          <item>
+            <title>Episode 38 - Getting Started Is Never Easy</title>
+            <link>http://localhost:4000/2016/02/08/episode38.html</link>
+            <comments>http://localhost:4000/2016/02/08/episode38.html#disqus_thread</comments>
+            <pubDate>Mon, 08 Feb 2016 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">http://localhost:4000/2016/02/08/episode38.html</guid>
+            <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="http://localhost:4000/episodes/38.ogg" length="21777" type="audio/ogg; codecs=vorbis" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Arne and Stefan</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:13</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+              <psc:chapter start="00:00:00.500" title="... Shoubidoubidoo ..." />
+              
+              <psc:chapter start="00:00:01.000" title="Outro." />
+              
+            </psc:chapters>
+            
+          </item>
+        
+      
+    
+      
+        
+        
+          <item>
+            <title>Episode 37 - Getting Started Is Never Easy</title>
+            <link>http://localhost:4000/2016/02/07/episode37.html</link>
+            <comments>http://localhost:4000/2016/02/07/episode37.html#disqus_thread</comments>
+            <pubDate>Sun, 07 Feb 2016 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">http://localhost:4000/2016/02/07/episode37.html</guid>
+            <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="http://localhost:4000/episodes/37.ogg" length="26544" type="audio/ogg; codecs=vorbis" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Arne and Stefan</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:13</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+              <psc:chapter start="00:00:00.500" title="... Shoubidoubidoo ..." />
+              
+              <psc:chapter start="00:00:01.000" title="Outro." />
+              
+            </psc:chapters>
+            
+          </item>
+        
+      
+    
+      
+        
+        
+          <item>
+            <title>Episode 36 - Getting Started Is Never Easy</title>
+            <link>http://localhost:4000/2016/02/06/episode36.html</link>
+            <comments>http://localhost:4000/2016/02/06/episode36.html#disqus_thread</comments>
+            <pubDate>Sat, 06 Feb 2016 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">http://localhost:4000/2016/02/06/episode36.html</guid>
+            <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="http://localhost:4000/episodes/36.ogg" length="24785" type="audio/ogg; codecs=vorbis" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Arne and Stefan</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:13</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+              <psc:chapter start="00:00:00.500" title="... Shoubidoubidoo ..." />
+              
+              <psc:chapter start="00:00:01.000" title="Outro." />
+              
+            </psc:chapters>
+            
+          </item>
+        
+      
+    
+      
+        
+        
+          <item>
+            <title>Episode 35 - Getting Started Is Never Easy</title>
+            <link>http://localhost:4000/2016/02/05/episode35.html</link>
+            <comments>http://localhost:4000/2016/02/05/episode35.html#disqus_thread</comments>
+            <pubDate>Fri, 05 Feb 2016 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">http://localhost:4000/2016/02/05/episode35.html</guid>
+            <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="http://localhost:4000/episodes/35.ogg" length="24782" type="audio/ogg; codecs=vorbis" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Arne and Stefan</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:13</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+              <psc:chapter start="00:00:00.500" title="... Shoubidoubidoo ..." />
+              
+              <psc:chapter start="00:00:01.000" title="Outro." />
+              
+            </psc:chapters>
+            
+          </item>
+        
+      
+    
+      
+        
+        
+          <item>
+            <title>Episode 34 - Getting Started Is Never Easy</title>
+            <link>http://localhost:4000/2016/02/04/episode34.html</link>
+            <comments>http://localhost:4000/2016/02/04/episode34.html#disqus_thread</comments>
+            <pubDate>Thu, 04 Feb 2016 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">http://localhost:4000/2016/02/04/episode34.html</guid>
+            <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="http://localhost:4000/episodes/34.ogg" length="20707" type="audio/ogg; codecs=vorbis" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Arne and Stefan</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:13</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+              <psc:chapter start="00:00:00.500" title="... Shoubidoubidoo ..." />
+              
+              <psc:chapter start="00:00:01.000" title="Outro." />
+              
+            </psc:chapters>
+            
+          </item>
+        
+      
+    
+      
+        
+        
+          <item>
+            <title>Episode 33 - Getting Started Is Never Easy</title>
+            <link>http://localhost:4000/2016/02/03/episode33.html</link>
+            <comments>http://localhost:4000/2016/02/03/episode33.html#disqus_thread</comments>
+            <pubDate>Wed, 03 Feb 2016 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">http://localhost:4000/2016/02/03/episode33.html</guid>
+            <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="http://localhost:4000/episodes/33.ogg" length="23367" type="audio/ogg; codecs=vorbis" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Arne and Stefan</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:13</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+              <psc:chapter start="00:00:00.500" title="... Shoubidoubidoo ..." />
+              
+              <psc:chapter start="00:00:01.000" title="Outro." />
+              
+            </psc:chapters>
+            
+          </item>
+        
+      
+    
+      
+        
+        
+          <item>
+            <title>Episode 32 - Getting Started Is Never Easy</title>
+            <link>http://localhost:4000/2016/02/02/episode32.html</link>
+            <comments>http://localhost:4000/2016/02/02/episode32.html#disqus_thread</comments>
+            <pubDate>Tue, 02 Feb 2016 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">http://localhost:4000/2016/02/02/episode32.html</guid>
+            <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="http://localhost:4000/episodes/32.ogg" length="24289" type="audio/ogg; codecs=vorbis" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Arne and Stefan</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:13</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+              <psc:chapter start="00:00:00.500" title="... Shoubidoubidoo ..." />
+              
+              <psc:chapter start="00:00:01.000" title="Outro." />
+              
+            </psc:chapters>
+            
+          </item>
+        
+      
+    
+      
+        
+        
+          <item>
+            <title>Episode 31 - Getting Started Is Never Easy</title>
+            <link>http://localhost:4000/2016/02/01/episode31.html</link>
+            <comments>http://localhost:4000/2016/02/01/episode31.html#disqus_thread</comments>
+            <pubDate>Mon, 01 Feb 2016 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">http://localhost:4000/2016/02/01/episode31.html</guid>
+            <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="http://localhost:4000/episodes/31.ogg" length="24058" type="audio/ogg; codecs=vorbis" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Arne and Stefan</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:13</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+              <psc:chapter start="00:00:00.500" title="... Shoubidoubidoo ..." />
+              
+              <psc:chapter start="00:00:01.000" title="Outro." />
+              
+            </psc:chapters>
+            
+          </item>
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+  </channel>
+</rss>
