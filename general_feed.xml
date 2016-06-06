@@ -4,7 +4,7 @@
  <title>Octopod - Staging Site</title>
  <link href="https://jekyll-octopod.github.io/staging/general_feed.xml" rel="self"/>
  <link href="https://jekyll-octopod.github.io/staging"/>
- <updated>2016-06-06T15:37:47+02:00</updated>
+ <updated>2016-06-06T15:44:43+02:00</updated>
  <id>https://jekyll-octopod.github.io/staging/</id>
  <author>
    <name>Stefan Haslinger</name>
@@ -578,6 +578,36 @@
    <link rel="enclosure" type="audio/ogg; codecs=vorbis" length="23822" href="https://jekyll-octopod.github.io/staging/episodes/82.ogg"/>
    
    <link rel="enclosure" type="audio/mp4a-latm" length="20323" href="https://jekyll-octopod.github.io/staging/episodes/82.m4a"/>
+   
+   
+ </entry>
+ 
+ <entry>
+   <title>Episode 81</title>
+   <link href="https://jekyll-octopod.github.io/staging/2016/03/22/episode81.html"/>
+   <updated>2016-03-22T00:00:00+01:00</updated>
+   <id>https://jekyll-octopod.github.io/staging/2016/03/22/episode81</id>
+   <content type="html">&lt;h2 id=&quot;getting-started-is-never-easy&quot;&gt;Getting Started Is Never Easy&lt;/h2&gt;
+
+&lt;div class=&quot;podlove-player-wrapper&quot;&gt;  &lt;audio data-podlove-web-player-source=&quot;https://jekyll-octopod.github.io/staging/players/episode81/index.html&quot;&gt;
+    &lt;source src=&quot;https://jekyll-octopod.github.io/staging/episodes/81.mp3&quot; type=&quot;audio/mp3&quot; /&gt;
+  &lt;/audio&gt;
+&lt;/div&gt;
+&lt;script&gt;$(&#39;audio&#39;).podlovewebplayer();&lt;/script&gt;
+
+&lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Well this is the place for the Show Notes.&lt;/li&gt;
+  &lt;li&gt;Send Feedback either in the &lt;a href=&quot;https://github.com/haslinger/jekyll-octopod&quot;&gt;Github Repo&lt;/a&gt; or at the Twitter account &lt;a href=&quot;http://twitter.com/@AuaUffCode&quot;&gt;@AuaUffCode&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+   
+   <link rel="enclosure" type="audio/mpeg" length="19016" href="https://jekyll-octopod.github.io/staging/episodes/81.mp3"/>
+   
+   <link rel="enclosure" type="audio/ogg; codecs=vorbis" length="23721" href="https://jekyll-octopod.github.io/staging/episodes/81.ogg"/>
+   
+   <link rel="enclosure" type="audio/mp4a-latm" length="20636" href="https://jekyll-octopod.github.io/staging/episodes/81.m4a"/>
    
    
  </entry>

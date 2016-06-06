@@ -5,7 +5,7 @@
     <link>https://jekyll-octopod.github.io/staging</link>
     <atom:link href="https://jekyll-octopod.github.io/staging/episodes3.ogg.rss" rel="self" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
     <atom:link href="https://jekyll-octopod.github.io/staging/episodes.ogg.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="https://jekyll-octopod.github.io/staging/episodes10.ogg.rss" rel="last" type="application/rss+xml" />
+    <atom:link href="https://jekyll-octopod.github.io/staging/episodes11.ogg.rss" rel="last" type="application/rss+xml" />
     <atom:link href="https://jekyll-octopod.github.io/staging/episodes4.ogg.rss" rel="next" type="application/rss+xml" />
     <atom:link href="https://jekyll-octopod.github.io/staging/episodes2.ogg.rss" rel="prev" type="application/rss+xml" />
 
@@ -13,7 +13,7 @@
 <atom:link rel="alternate" href="https://jekyll-octopod.github.io/staging/episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
     <description>The project site itself is located at https://jekyll-octopod.github.io
 </description>
-    <lastBuildDate>Mon, 06 Jun 2016 15:37:47 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jun 2016 15:44:43 +0200</lastBuildDate>
     <language>en</language>
 
     <itunes:summary>The project site itself is located at https://jekyll-octopod.github.io
@@ -131,6 +131,65 @@
     
       
         
+        
+      
+    
+      
+        
+        
+          <item>
+            <title>Episode 81 - Getting Started Is Never Easy</title>
+            <link>https://jekyll-octopod.github.io/staging/2016/03/22/episode81.html</link>
+            <comments>https://jekyll-octopod.github.io/staging/2016/03/22/episode81.html#disqus_thread</comments>
+            <pubDate>Tue, 22 Mar 2016 00:00:00 +0100</pubDate>
+            
+            <guid isPermaLink="false">https://jekyll-octopod.github.io/staging/2016/03/22/episode81.html</guid>
+            <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="http://jekyll-octopod.github.io/staging/episodes/81.ogg" length="23721" type="audio/ogg; codecs=vorbis" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Arne and Stefan</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:13</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+              <psc:chapter start="00:00:00.500" title="... Shoubidoubidoo ..." />
+              
+              <psc:chapter start="00:00:01.000" title="Outro." />
+              
+            </psc:chapters>
+            
+          </item>
         
       
     
@@ -667,60 +726,6 @@
     
       
         
-        
-          <item>
-            <title>Episode 71 - Getting Started Is Never Easy</title>
-            <link>https://jekyll-octopod.github.io/staging/2016/03/12/episode71.html</link>
-            <comments>https://jekyll-octopod.github.io/staging/2016/03/12/episode71.html#disqus_thread</comments>
-            <pubDate>Sat, 12 Mar 2016 00:00:00 +0100</pubDate>
-            
-            <guid isPermaLink="false">https://jekyll-octopod.github.io/staging/2016/03/12/episode71.html</guid>
-            <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
-
-<div class="podlove-player-wrapper">  
-</div>
-
-
-<h2 id="show-notes-and-links">Show Notes and Links</h2>
-
-<ul>
-  <li>Well this is the place for the Show Notes.</li>
-  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
-</ul>
-]]></description>
-            <content:encoded><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
-
-<div class="podlove-player-wrapper">  
-</div>
-
-
-<h2 id="show-notes-and-links">Show Notes and Links</h2>
-
-<ul>
-  <li>Well this is the place for the Show Notes.</li>
-  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
-</ul>
-]]></content:encoded>
-            <enclosure url="http://jekyll-octopod.github.io/staging/episodes/71.ogg" length="23460" type="audio/ogg; codecs=vorbis" />
-            <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
-            <itunes:summary></itunes:summary>
-            <itunes:author>Arne and Stefan</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>0:03:13</itunes:duration>
-            
-            
-            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
-              
-              <psc:chapter start="00:00:00.000" title="Intro." />
-              
-              <psc:chapter start="00:00:00.500" title="... Shoubidoubidoo ..." />
-              
-              <psc:chapter start="00:00:01.000" title="Outro." />
-              
-            </psc:chapters>
-            
-          </item>
         
       
     
