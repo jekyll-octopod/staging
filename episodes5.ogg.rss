@@ -2,25 +2,25 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Octopod - Staging Site</title>
-    <link>https://jekyll-octopod.github.io</link>
-    <atom:link href="https://jekyll-octopod.github.io/episodes5.ogg.rss" rel="self" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
-    <atom:link href="https://jekyll-octopod.github.io/episodes.ogg.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="https://jekyll-octopod.github.io/episodes10.ogg.rss" rel="last" type="application/rss+xml" />
-    <atom:link href="https://jekyll-octopod.github.io/episodes6.ogg.rss" rel="next" type="application/rss+xml" />
-    <atom:link href="https://jekyll-octopod.github.io/episodes4.ogg.rss" rel="prev" type="application/rss+xml" />
+    <link>https://jekyll-octopod.github.io/staging</link>
+    <atom:link href="https://jekyll-octopod.github.io/staging/episodes5.ogg.rss" rel="self" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
+    <atom:link href="https://jekyll-octopod.github.io/staging/episodes.ogg.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://jekyll-octopod.github.io/staging/episodes10.ogg.rss" rel="last" type="application/rss+xml" />
+    <atom:link href="https://jekyll-octopod.github.io/staging/episodes6.ogg.rss" rel="next" type="application/rss+xml" />
+    <atom:link href="https://jekyll-octopod.github.io/staging/episodes4.ogg.rss" rel="prev" type="application/rss+xml" />
 
-    <atom:link rel="alternate" href="https://jekyll-octopod.github.io/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
-<atom:link rel="alternate" href="https://jekyll-octopod.github.io/episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link rel="alternate" href="https://jekyll-octopod.github.io/staging/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+<atom:link rel="alternate" href="https://jekyll-octopod.github.io/staging/episodes.mp3.rss" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
     <description>The project site itself is located at https://jekyll-octopod.github.io
 </description>
-    <lastBuildDate>Mon, 06 Jun 2016 14:53:24 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jun 2016 15:02:53 +0200</lastBuildDate>
     <language>en</language>
 
     <itunes:summary>The project site itself is located at https://jekyll-octopod.github.io
 </itunes:summary>
     <itunes:author>Stefan Haslinger</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://jekyll-octopod.github.io/img/logo-itunes.jpg" />
+    <itunes:image href="http://jekyll-octopod.github.io/staging/img/logo-itunes.jpg" />
     <itunes:owner>
       <itunes:name>Stefan Haslinger</itunes:name>
       <itunes:email>stefan.haslinger@informatom.com</itunes:email>
@@ -31,8 +31,8 @@
     <itunes:keywords>octopod, podcast, magic</itunes:keywords>
     <image>
       <title>Octopod - Staging Site</title>
-      <url>https://jekyll-octopod.github.io/img/logo-itunes.jpg</url>
-      <link>https://jekyll-octopod.github.io</link>
+      <url>https://jekyll-octopod.github.io/staging/img/logo-itunes.jpg</url>
+      <link>https://jekyll-octopod.github.io/staging</link>
     </image>
     
     <itunes:category text="Technology">
@@ -239,11 +239,11 @@
         
           <item>
             <title>Episode 60 - Getting Started Is Never Easy</title>
-            <link>https://jekyll-octopod.github.io/2016/03/01/episode60.html</link>
-            <comments>https://jekyll-octopod.github.io/2016/03/01/episode60.html#disqus_thread</comments>
+            <link>https://jekyll-octopod.github.io/staging/2016/03/01/episode60.html</link>
+            <comments>https://jekyll-octopod.github.io/staging/2016/03/01/episode60.html#disqus_thread</comments>
             <pubDate>Tue, 01 Mar 2016 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://jekyll-octopod.github.io/2016/03/01/episode60.html</guid>
+            <guid isPermaLink="false">https://jekyll-octopod.github.io/staging/2016/03/01/episode60.html</guid>
             <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
 
 <div class="podlove-player-wrapper">  
@@ -270,7 +270,7 @@
   <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="http://jekyll-octopod.github.io/episodes/60.ogg" length="22932" type="audio/ogg; codecs=vorbis" />
+            <enclosure url="http://jekyll-octopod.github.io/staging/episodes/60.ogg" length="22932" type="audio/ogg; codecs=vorbis" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -298,11 +298,11 @@
         
           <item>
             <title>Episode 59 - Getting Started Is Never Easy</title>
-            <link>https://jekyll-octopod.github.io/2016/02/29/episode59.html</link>
-            <comments>https://jekyll-octopod.github.io/2016/02/29/episode59.html#disqus_thread</comments>
+            <link>https://jekyll-octopod.github.io/staging/2016/02/29/episode59.html</link>
+            <comments>https://jekyll-octopod.github.io/staging/2016/02/29/episode59.html#disqus_thread</comments>
             <pubDate>Mon, 29 Feb 2016 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://jekyll-octopod.github.io/2016/02/29/episode59.html</guid>
+            <guid isPermaLink="false">https://jekyll-octopod.github.io/staging/2016/02/29/episode59.html</guid>
             <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
 
 <div class="podlove-player-wrapper">  
@@ -329,7 +329,7 @@
   <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="http://jekyll-octopod.github.io/episodes/59.ogg" length="24421" type="audio/ogg; codecs=vorbis" />
+            <enclosure url="http://jekyll-octopod.github.io/staging/episodes/59.ogg" length="24421" type="audio/ogg; codecs=vorbis" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -357,11 +357,11 @@
         
           <item>
             <title>Episode 58 - Getting Started Is Never Easy</title>
-            <link>https://jekyll-octopod.github.io/2016/02/28/episode58.html</link>
-            <comments>https://jekyll-octopod.github.io/2016/02/28/episode58.html#disqus_thread</comments>
+            <link>https://jekyll-octopod.github.io/staging/2016/02/28/episode58.html</link>
+            <comments>https://jekyll-octopod.github.io/staging/2016/02/28/episode58.html#disqus_thread</comments>
             <pubDate>Sun, 28 Feb 2016 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://jekyll-octopod.github.io/2016/02/28/episode58.html</guid>
+            <guid isPermaLink="false">https://jekyll-octopod.github.io/staging/2016/02/28/episode58.html</guid>
             <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
 
 <div class="podlove-player-wrapper">  
@@ -388,7 +388,7 @@
   <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="http://jekyll-octopod.github.io/episodes/58.ogg" length="23436" type="audio/ogg; codecs=vorbis" />
+            <enclosure url="http://jekyll-octopod.github.io/staging/episodes/58.ogg" length="23436" type="audio/ogg; codecs=vorbis" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -416,11 +416,11 @@
         
           <item>
             <title>Episode 57 - Getting Started Is Never Easy</title>
-            <link>https://jekyll-octopod.github.io/2016/02/27/episode57.html</link>
-            <comments>https://jekyll-octopod.github.io/2016/02/27/episode57.html#disqus_thread</comments>
+            <link>https://jekyll-octopod.github.io/staging/2016/02/27/episode57.html</link>
+            <comments>https://jekyll-octopod.github.io/staging/2016/02/27/episode57.html#disqus_thread</comments>
             <pubDate>Sat, 27 Feb 2016 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://jekyll-octopod.github.io/2016/02/27/episode57.html</guid>
+            <guid isPermaLink="false">https://jekyll-octopod.github.io/staging/2016/02/27/episode57.html</guid>
             <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
 
 <div class="podlove-player-wrapper">  
@@ -447,7 +447,7 @@
   <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="http://jekyll-octopod.github.io/episodes/57.ogg" length="22029" type="audio/ogg; codecs=vorbis" />
+            <enclosure url="http://jekyll-octopod.github.io/staging/episodes/57.ogg" length="22029" type="audio/ogg; codecs=vorbis" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -475,11 +475,11 @@
         
           <item>
             <title>Episode 56 - Getting Started Is Never Easy</title>
-            <link>https://jekyll-octopod.github.io/2016/02/26/episode56.html</link>
-            <comments>https://jekyll-octopod.github.io/2016/02/26/episode56.html#disqus_thread</comments>
+            <link>https://jekyll-octopod.github.io/staging/2016/02/26/episode56.html</link>
+            <comments>https://jekyll-octopod.github.io/staging/2016/02/26/episode56.html#disqus_thread</comments>
             <pubDate>Fri, 26 Feb 2016 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://jekyll-octopod.github.io/2016/02/26/episode56.html</guid>
+            <guid isPermaLink="false">https://jekyll-octopod.github.io/staging/2016/02/26/episode56.html</guid>
             <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
 
 <div class="podlove-player-wrapper">  
@@ -506,7 +506,7 @@
   <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="http://jekyll-octopod.github.io/episodes/56.ogg" length="22746" type="audio/ogg; codecs=vorbis" />
+            <enclosure url="http://jekyll-octopod.github.io/staging/episodes/56.ogg" length="22746" type="audio/ogg; codecs=vorbis" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -534,11 +534,11 @@
         
           <item>
             <title>Episode 55 - Getting Started Is Never Easy</title>
-            <link>https://jekyll-octopod.github.io/2016/02/25/episode55.html</link>
-            <comments>https://jekyll-octopod.github.io/2016/02/25/episode55.html#disqus_thread</comments>
+            <link>https://jekyll-octopod.github.io/staging/2016/02/25/episode55.html</link>
+            <comments>https://jekyll-octopod.github.io/staging/2016/02/25/episode55.html#disqus_thread</comments>
             <pubDate>Thu, 25 Feb 2016 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://jekyll-octopod.github.io/2016/02/25/episode55.html</guid>
+            <guid isPermaLink="false">https://jekyll-octopod.github.io/staging/2016/02/25/episode55.html</guid>
             <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
 
 <div class="podlove-player-wrapper">  
@@ -565,7 +565,7 @@
   <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="http://jekyll-octopod.github.io/episodes/55.ogg" length="24150" type="audio/ogg; codecs=vorbis" />
+            <enclosure url="http://jekyll-octopod.github.io/staging/episodes/55.ogg" length="24150" type="audio/ogg; codecs=vorbis" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -593,11 +593,11 @@
         
           <item>
             <title>Episode 54 - Getting Started Is Never Easy</title>
-            <link>https://jekyll-octopod.github.io/2016/02/24/episode54.html</link>
-            <comments>https://jekyll-octopod.github.io/2016/02/24/episode54.html#disqus_thread</comments>
+            <link>https://jekyll-octopod.github.io/staging/2016/02/24/episode54.html</link>
+            <comments>https://jekyll-octopod.github.io/staging/2016/02/24/episode54.html#disqus_thread</comments>
             <pubDate>Wed, 24 Feb 2016 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://jekyll-octopod.github.io/2016/02/24/episode54.html</guid>
+            <guid isPermaLink="false">https://jekyll-octopod.github.io/staging/2016/02/24/episode54.html</guid>
             <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
 
 <div class="podlove-player-wrapper">  
@@ -624,7 +624,7 @@
   <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="http://jekyll-octopod.github.io/episodes/54.ogg" length="22230" type="audio/ogg; codecs=vorbis" />
+            <enclosure url="http://jekyll-octopod.github.io/staging/episodes/54.ogg" length="22230" type="audio/ogg; codecs=vorbis" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -652,11 +652,11 @@
         
           <item>
             <title>Episode 53 - Getting Started Is Never Easy</title>
-            <link>https://jekyll-octopod.github.io/2016/02/23/episode53.html</link>
-            <comments>https://jekyll-octopod.github.io/2016/02/23/episode53.html#disqus_thread</comments>
+            <link>https://jekyll-octopod.github.io/staging/2016/02/23/episode53.html</link>
+            <comments>https://jekyll-octopod.github.io/staging/2016/02/23/episode53.html#disqus_thread</comments>
             <pubDate>Tue, 23 Feb 2016 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://jekyll-octopod.github.io/2016/02/23/episode53.html</guid>
+            <guid isPermaLink="false">https://jekyll-octopod.github.io/staging/2016/02/23/episode53.html</guid>
             <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
 
 <div class="podlove-player-wrapper">  
@@ -683,7 +683,7 @@
   <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="http://jekyll-octopod.github.io/episodes/53.ogg" length="22784" type="audio/ogg; codecs=vorbis" />
+            <enclosure url="http://jekyll-octopod.github.io/staging/episodes/53.ogg" length="22784" type="audio/ogg; codecs=vorbis" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -711,11 +711,11 @@
         
           <item>
             <title>Episode 52 - Getting Started Is Never Easy</title>
-            <link>https://jekyll-octopod.github.io/2016/02/22/episode52.html</link>
-            <comments>https://jekyll-octopod.github.io/2016/02/22/episode52.html#disqus_thread</comments>
+            <link>https://jekyll-octopod.github.io/staging/2016/02/22/episode52.html</link>
+            <comments>https://jekyll-octopod.github.io/staging/2016/02/22/episode52.html#disqus_thread</comments>
             <pubDate>Mon, 22 Feb 2016 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://jekyll-octopod.github.io/2016/02/22/episode52.html</guid>
+            <guid isPermaLink="false">https://jekyll-octopod.github.io/staging/2016/02/22/episode52.html</guid>
             <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
 
 <div class="podlove-player-wrapper">  
@@ -742,7 +742,7 @@
   <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="http://jekyll-octopod.github.io/episodes/52.ogg" length="22747" type="audio/ogg; codecs=vorbis" />
+            <enclosure url="http://jekyll-octopod.github.io/staging/episodes/52.ogg" length="22747" type="audio/ogg; codecs=vorbis" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -770,11 +770,11 @@
         
           <item>
             <title>Episode 51 - Getting Started Is Never Easy</title>
-            <link>https://jekyll-octopod.github.io/2016/02/21/episode51.html</link>
-            <comments>https://jekyll-octopod.github.io/2016/02/21/episode51.html#disqus_thread</comments>
+            <link>https://jekyll-octopod.github.io/staging/2016/02/21/episode51.html</link>
+            <comments>https://jekyll-octopod.github.io/staging/2016/02/21/episode51.html#disqus_thread</comments>
             <pubDate>Sun, 21 Feb 2016 00:00:00 +0100</pubDate>
             
-            <guid isPermaLink="false">https://jekyll-octopod.github.io/2016/02/21/episode51.html</guid>
+            <guid isPermaLink="false">https://jekyll-octopod.github.io/staging/2016/02/21/episode51.html</guid>
             <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
 
 <div class="podlove-player-wrapper">  
@@ -801,7 +801,7 @@
   <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
 </ul>
 ]]></content:encoded>
-            <enclosure url="http://jekyll-octopod.github.io/episodes/51.ogg" length="24283" type="audio/ogg; codecs=vorbis" />
+            <enclosure url="http://jekyll-octopod.github.io/staging/episodes/51.ogg" length="24283" type="audio/ogg; codecs=vorbis" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
             <itunes:summary></itunes:summary>
