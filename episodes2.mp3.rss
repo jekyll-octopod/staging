@@ -13,7 +13,7 @@
 <atom:link rel="alternate" href="https://jekyll-octopod.github.io/staging/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
     <description>The project site itself is located at https://jekyll-octopod.github.io
 </description>
-    <lastBuildDate>Mon, 06 Jun 2016 15:44:43 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jun 2016 15:52:32 +0200</lastBuildDate>
     <language>en</language>
 
     <itunes:summary>The project site itself is located at https://jekyll-octopod.github.io
@@ -81,6 +81,60 @@
     
       
         
+        
+          <item>
+            <title>Episode 92 - Getting Started Is Never Easy</title>
+            <link>https://jekyll-octopod.github.io/staging/2016/04/02/episode92.html</link>
+            <comments>https://jekyll-octopod.github.io/staging/2016/04/02/episode92.html#disqus_thread</comments>
+            <pubDate>Sat, 02 Apr 2016 00:00:00 +0200</pubDate>
+            
+            <guid isPermaLink="false">https://jekyll-octopod.github.io/staging/2016/04/02/episode92.html</guid>
+            <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
+
+<div class="podlove-player-wrapper">  
+</div>
+
+
+<h2 id="show-notes-and-links">Show Notes and Links</h2>
+
+<ul>
+  <li>Well this is the place for the Show Notes.</li>
+  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+</ul>
+]]></content:encoded>
+            <enclosure url="http://jekyll-octopod.github.io/staging/episodes/92.mp3" length="17344" type="audio/mpeg" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Arne and Stefan</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:03:13</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+              <psc:chapter start="00:00:00.500" title="... Shoubidoubidoo ..." />
+              
+              <psc:chapter start="00:00:01.000" title="Outro." />
+              
+            </psc:chapters>
+            
+          </item>
         
       
     
@@ -617,60 +671,6 @@
     
       
         
-        
-          <item>
-            <title>Episode 82 - Getting Started Is Never Easy</title>
-            <link>https://jekyll-octopod.github.io/staging/2016/03/23/episode82.html</link>
-            <comments>https://jekyll-octopod.github.io/staging/2016/03/23/episode82.html#disqus_thread</comments>
-            <pubDate>Wed, 23 Mar 2016 00:00:00 +0100</pubDate>
-            
-            <guid isPermaLink="false">https://jekyll-octopod.github.io/staging/2016/03/23/episode82.html</guid>
-            <description><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
-
-<div class="podlove-player-wrapper">  
-</div>
-
-
-<h2 id="show-notes-and-links">Show Notes and Links</h2>
-
-<ul>
-  <li>Well this is the place for the Show Notes.</li>
-  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
-</ul>
-]]></description>
-            <content:encoded><![CDATA[<h2 id="getting-started-is-never-easy">Getting Started Is Never Easy</h2>
-
-<div class="podlove-player-wrapper">  
-</div>
-
-
-<h2 id="show-notes-and-links">Show Notes and Links</h2>
-
-<ul>
-  <li>Well this is the place for the Show Notes.</li>
-  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
-</ul>
-]]></content:encoded>
-            <enclosure url="http://jekyll-octopod.github.io/staging/episodes/82.mp3" length="18389" type="audio/mpeg" />
-            <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
-            <itunes:summary></itunes:summary>
-            <itunes:author>Arne and Stefan</itunes:author>
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>0:03:13</itunes:duration>
-            
-            
-            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
-              
-              <psc:chapter start="00:00:00.000" title="Intro." />
-              
-              <psc:chapter start="00:00:00.500" title="... Shoubidoubidoo ..." />
-              
-              <psc:chapter start="00:00:01.000" title="Outro." />
-              
-            </psc:chapters>
-            
-          </item>
         
       
     
