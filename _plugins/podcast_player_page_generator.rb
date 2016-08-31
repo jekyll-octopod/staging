@@ -13,6 +13,8 @@ module Jekyll
       self.data['subtitle'] = post.data['subtitle']
       self.data['datum']    = post.data['datum']
       self.data['author']   = post.data['author']
+      self.data['duration'] = post.data['duration']
+      self.data['summary']  = post.data['summary']
       self.data['explicit'] = post.data['explicit']
       self.data['audio']    = post.data['audio']
       self.data['chapters'] = post.data['chapters']
